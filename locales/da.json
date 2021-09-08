@@ -74,7 +74,9 @@
     "previous_slide": "Skub til venstre",
     "loading": "Indlæser...",
     "of": "af",
-    "skip_to_product_info": "Gå til produktoplysninger"
+    "skip_to_product_info": "Gå til produktoplysninger",
+    "total_reviews": "anmeldelser i alt",
+    "star_reviews_info": "{{ rating_value }} ud af {{ rating_max }} stjerner"
   },
   "blogs": {
     "article": {
@@ -140,7 +142,8 @@
         "open_media": "Åbn mediet {{ index }} i gallerivisning",
         "play_model": "Afspil 3D-fremviser",
         "play_video": "Afspil video"
-      }
+      },
+      "view_full_details": "Se komplette oplysninger"
     },
     "modal": {
       "label": "Mediegalleri"
@@ -154,7 +157,9 @@
         "other": "Der blev fundet {{ count }} resultater for “{{ terms }}”"
       },
       "title": "Søgeresultater",
-      "page": "Side"
+      "page": "Side",
+      "products": "Produkter",
+      "search_for": "Søg efter \"{{ terms }}\""
     },
     "cart": {
       "cart": "Indkøbskurv"

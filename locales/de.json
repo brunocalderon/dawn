@@ -74,7 +74,9 @@
     "previous_slide": "Nach links schieben",
     "loading": "Wird geladen ...",
     "of": "von",
-    "skip_to_product_info": "Zu Produktinformationen springen"
+    "skip_to_product_info": "Zu Produktinformationen springen",
+    "total_reviews": "Bewertungen insgesamt",
+    "star_reviews_info": "{{ rating_value }} von {{ rating_max }} Sternen"
   },
   "blogs": {
     "article": {
@@ -140,7 +142,8 @@
         "open_media": "Medien {{ index }} in Galerieansicht öffnen",
         "play_model": "3D-Viewer abspielen",
         "play_video": "Video abspielen"
-      }
+      },
+      "view_full_details": "Vollständige Details anzeigen"
     },
     "modal": {
       "label": "Medien-Galerie"
@@ -154,7 +157,9 @@
         "other": "{{ count }} Ergebnisse für “{{ terms }}” gefunden"
       },
       "title": "Suchergebnisse",
-      "page": "Seite"
+      "page": "Seite",
+      "products": "Produkte",
+      "search_for": "Nach \"{{ terms }}\" suchen"
     },
     "cart": {
       "cart": "Warenkorb"
